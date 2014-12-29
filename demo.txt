@@ -1,0 +1,1 @@
+$sql1="SELECT * FROM `p12306` WHERE idcard like '______199_%' and (left(idcard,6)='350200'or left(idcard,6)='350202'or left(idcard,6)='350204' or left(idcard,6)='350206')";
