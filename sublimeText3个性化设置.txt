@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 13,
+	"bold_folder_labels":true,//侧边栏文件夹加粗
+	// "font_face":"Ubuntu Mono",
+	// "font_options":"directwrite",
+	"highlight_line":true,//当前行高亮
+	"highlight_modified_tabs":true,//当前没保存文件高亮
+	"scroll_past_end":true,//不知道什么鬼
+	"vintage_start_in_command_mode":true,//光标在模式变成下划线
+	"word_wrap":true,
+	"translate_tabs_to_spaces":true,//翻译标签是什么鬼
+	"trim_trailing_white_space_on_save":true,//保存时去掉空格
+    // "line_padding_bottom":1,//字体间距
+    // "line_padding_top":1,//字体间距
+    "tab_completion":false,
+	"ignored_packages":
+	[
+		//开启后不再是VIM模式
+		// "Vintage"
+	]
+}
